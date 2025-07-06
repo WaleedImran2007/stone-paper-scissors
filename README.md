@@ -2,12 +2,15 @@
 
 This is my first web development project — a simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript.
 
-## 🔥 Features
+## 🔗 Live Demo
+[Click here to play the game](https://WaleedImran2007.github.io/stone-paper-scissors/)
+
+## 📌 Features
 - Play against the computer
 - Real-time result display
-- Clean and responsive UI
+- Simple and clean UI
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
