@@ -3,7 +3,8 @@
 This is my first web development project — a simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
-[Click here to play the game](https://WaleedImran2007.github.io/stone-paper-scissors/)
+- [Play on Netlify](https://your-netlify-site-name.netlify.app) ✅ Recommended
+- [Play on GitHub Pages](https://WaleedImran2007.github.io/stone-paper-scissors/) (Backup link)
 
 ## 📌 Features
 - Play against the computer
